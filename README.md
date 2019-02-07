@@ -1,4 +1,4 @@
-# RandomWalk1000
+# Function Approximation: Random Walk 1000
 
 <b>Chapter 9: Reinforcement Learning: An Introduction(2nd edition) by Sutton &amp; Barto</b>
 
