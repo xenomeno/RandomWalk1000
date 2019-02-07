@@ -2,7 +2,7 @@
 
 <b>Chapter 9: Reinforcement Learning: An Introduction(2nd edition) by Sutton &amp; Barto</b>
 
-This is reporoduction of figures from the book. The intervals for Coarse Coding are randomly spread through the region of the Square Wave function. Bitmap is implemented in pure Lua and is very slow!
+This is reporoduction of figures from the book. I have some inconsistencies with Tile Coding as you can see on the graph that 5,000 episodes are not enough for the 50-Tiles Value Function to outperform the 1-Tile(State Aggregation) version. Bitmap is implemented in pure Lua and is very slow!
 
 Approximation by Monte Carlo using State Aggregation:
 
